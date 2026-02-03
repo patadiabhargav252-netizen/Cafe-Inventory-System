@@ -1,0 +1,4 @@
+coffee:2.0
+tea:2.0
+milk:5.0
+chocolate cake:10
